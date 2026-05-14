@@ -63,7 +63,7 @@ void escaladaSimple() {
 }
 
 int main() {
-    if (freopen("a.txt", "r", stdin) == NULL) return 1;
+    if (freopen("hc_bloqueo.txt", "r", stdin) == NULL) return 1;
 
     cin >> n >> m;
     cin >> inicio.x >> inicio.y >> fin.x >> fin.y;

@@ -27,7 +27,7 @@ Donde:
 
 .
 ├── main.cpp        # Código fuente del algoritmo A* (C++)
-├── a.txt           # Archivo de entrada con el laberinto
+├── ?.txt           # Archivos de entrada con el laberinto
 ├── Makefile        # Automatización de compilación
 └── README.md       # Documentación de esta unidad
 
@@ -44,3 +44,5 @@ make
 
 # 3. Limpiar los archivos ejecutables (opcional)
 make clean
+
+Nota: Se puede probar los otros ejemplos propuestos, solo se tiene que cambiar el nombre en el main.cpp
