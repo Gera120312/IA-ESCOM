@@ -1,0 +1,16 @@
+14 5
+Clima Temperatura Humedad Viento Jugar
+Soleado Alta Alta Falso No
+Soleado Alta Alta Verdadero No
+Nublado Alta Alta Falso Si
+Lluvia Media Alta Falso Si
+Lluvia Baja Normal Falso Si
+Lluvia Baja Normal Verdadero No
+Nublado Baja Normal Verdadero Si
+Soleado Media Alta Falso No
+Soleado Baja Normal Falso Si
+Lluvia Media Normal Falso Si
+Soleado Media Normal Verdadero Si
+Nublado Media Alta Verdadero Si
+Nublado Alta Normal Falso Si
+Lluvia Media Alta Verdadero No
