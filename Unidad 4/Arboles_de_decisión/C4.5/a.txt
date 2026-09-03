@@ -1,0 +1,16 @@
+14 5
+Clima Temperatura Humedad Viento Jugar
+Soleado 85 85 Falso No
+Soleado 80 90 Verdadero No
+Nublado 83 86 Falso Si
+Lluvia 70 96 Falso Si
+Lluvia 68 80 Falso Si
+Lluvia 65 70 Verdadero No
+Nublado 64 65 Verdadero Si
+Soleado 72 95 Falso No
+Soleado 69 70 Falso Si
+Lluvia 75 80 Falso Si
+Soleado 75 70 Verdadero Si
+Nublado 72 90 Verdadero Si
+Nublado 81 75 Falso Si
+Lluvia 71 91 Verdadero No
