@@ -1,4 +1,11 @@
-#include <bits/stdc++.h>
+#include <algorithm>
+#include <climits>
+#include <cmath>
+#include <functional>
+#include <iostream>
+#include <limits>
+#include <queue>
+#include <vector>
 using namespace std;
 
 struct Punto {
