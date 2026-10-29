@@ -1,0 +1,21 @@
+20 2
+160 55 Ligero
+165 58 Ligero
+155 50 Ligero
+170 65 Ligero
+168 60 Ligero
+162 57 Ligero
+159 52 Ligero
+166 59 Ligero
+161 54 Ligero
+167 61 Ligero
+175 80 Pesado
+180 85 Pesado
+178 82 Pesado
+185 90 Pesado
+182 88 Pesado
+177 79 Pesado
+188 95 Pesado
+179 81 Pesado
+183 87 Pesado
+181 84 Pesado
